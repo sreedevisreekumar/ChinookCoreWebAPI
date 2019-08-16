@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.29209.62
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChinookCoreWebAPI", "ChinookCoreWebAPI\ChinookCoreWebAPI.csproj", "{1B62EFD8-941E-43A1-BBB4-EAB37C14A21E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChinookCoreAPI.IntegrationTests", "ChinookCoreAPI.IntegrationTests\ChinookCoreAPI.IntegrationTests.csproj", "{314E4A23-7DA7-4FEE-ACF7-800866A708D7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{1B62EFD8-941E-43A1-BBB4-EAB37C14A21E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B62EFD8-941E-43A1-BBB4-EAB37C14A21E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B62EFD8-941E-43A1-BBB4-EAB37C14A21E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{314E4A23-7DA7-4FEE-ACF7-800866A708D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{314E4A23-7DA7-4FEE-ACF7-800866A708D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{314E4A23-7DA7-4FEE-ACF7-800866A708D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{314E4A23-7DA7-4FEE-ACF7-800866A708D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
